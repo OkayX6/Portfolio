@@ -13,7 +13,7 @@ module.exports = {
     lg: "1200px",
   },
   fonts: {
-    primary: "Segoe UI Light, Roboto, Arial, sans-serif",
+    primary: "Segoe UI Light, Inter, Roboto, Arial, sans-serif",
   },
   borderRadius: "1rem",
   pageWidth: "62.5rem",
